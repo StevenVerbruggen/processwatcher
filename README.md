@@ -1,2 +1,2 @@
 # processwatcher
-Can check a server process and report to Slack, once done
+A way to keep an eye on a running process and get a notification in Slack
